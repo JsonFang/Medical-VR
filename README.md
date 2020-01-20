@@ -1,5 +1,1 @@
-Simple test project to make sure VR settings are functional.
-Included features:
-- teleporting
-- locomotion
-- grabbing/throwing objects
+VR program for teaching medical lab procedures for students in training.
